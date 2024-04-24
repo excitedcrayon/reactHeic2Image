@@ -78,3 +78,6 @@ video{
     opacity: 0.8;
     color: var(--black);
 }
+.paragraph-centered{
+    text-align: center;
+}
