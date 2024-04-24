@@ -20,7 +20,7 @@ function App() {
             <video autoPlay muted loop poster={poster} src={video}></video>
           </div>
           <div className="downloads">
-            <a href="../public/heic2image.zip" title="Download ZIP" download>Download .zip</a>
+            <a href="./heic2image.zip" title="Download ZIP" download>Download .zip</a>
           </div>
           <div className="paragraph paragraph-centered">
             <p>Download the zip folder and extract to anywhere on your machine. Double click the .exe file to run the file</p>
